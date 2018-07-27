@@ -1,0 +1,9 @@
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldAPI\obj\Debug\netcoreapp2.0\HelloWorldAPI.csprojResolveAssemblyReference.cache
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldAPI\obj\Debug\netcoreapp2.0\HelloWorldAPI.csproj.CoreCompileInputs.cache
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldAPI\obj\Debug\netcoreapp2.0\HelloWorldAPI.AssemblyInfoInputs.cache
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldAPI\obj\Debug\netcoreapp2.0\HelloWorldAPI.AssemblyInfo.cs
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldAPI\bin\Debug\netcoreapp2.0\HelloWorldAPI.deps.json
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldAPI\bin\Debug\netcoreapp2.0\HelloWorldAPI.dll
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldAPI\bin\Debug\netcoreapp2.0\HelloWorldAPI.pdb
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldAPI\obj\Debug\netcoreapp2.0\HelloWorldAPI.dll
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldAPI\obj\Debug\netcoreapp2.0\HelloWorldAPI.pdb

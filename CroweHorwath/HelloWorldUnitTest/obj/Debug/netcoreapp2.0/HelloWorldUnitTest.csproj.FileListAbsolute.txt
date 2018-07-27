@@ -1,0 +1,17 @@
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldUnitTest\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldUnitTest\bin\Debug\netcoreapp2.0\HelloWorldUnitTest.deps.json
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldUnitTest\bin\Debug\netcoreapp2.0\HelloWorldUnitTest.runtimeconfig.json
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldUnitTest\bin\Debug\netcoreapp2.0\HelloWorldUnitTest.runtimeconfig.dev.json
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldUnitTest\bin\Debug\netcoreapp2.0\HelloWorldUnitTest.dll
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldUnitTest\bin\Debug\netcoreapp2.0\HelloWorldUnitTest.pdb
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldUnitTest\bin\Debug\netcoreapp2.0\HelloWorldAPI.dll
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldUnitTest\bin\Debug\netcoreapp2.0\HelloWorldAPI.pdb
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldUnitTest\obj\Debug\netcoreapp2.0\HelloWorldUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldUnitTest\obj\Debug\netcoreapp2.0\HelloWorldUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldUnitTest\obj\Debug\netcoreapp2.0\HelloWorldUnitTest.AssemblyInfoInputs.cache
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldUnitTest\obj\Debug\netcoreapp2.0\HelloWorldUnitTest.AssemblyInfo.cs
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldUnitTest\obj\Debug\netcoreapp2.0\HelloWorldUnitTest.csproj.CopyComplete
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldUnitTest\obj\Debug\netcoreapp2.0\HelloWorldUnitTest.dll
+C:\Users\ngantepalli\Documents\Visual Studio 2017\Projects\CroweHorwath\HelloWorldUnitTest\obj\Debug\netcoreapp2.0\HelloWorldUnitTest.pdb
